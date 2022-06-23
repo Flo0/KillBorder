@@ -1,0 +1,6 @@
+name: KillBorder
+version: '${project.version}'
+main: com.gestankbraturst.killborder.KillBorder
+api-version: 1.18
+authors: [ Gestankbratwurst ]
+description: Kills a player if he crosses a border
